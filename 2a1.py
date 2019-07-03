@@ -1,3 +1,3 @@
-p1,p2=map(int,input().split())
-s=p1**p2
+l1,l2=map(int,input().split())
+s=l1**l2
 print(s)
