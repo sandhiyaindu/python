@@ -1,6 +1,6 @@
-num1= int(input())
+num2= int(input())
 
-fact1 = 1
-for m in range(1,num1+ 1):
-       fact1 = fact1*m
-print(fact1)
+f = 1
+for n in range(1,num2+ 1):
+       f= f*n
+print(f)
