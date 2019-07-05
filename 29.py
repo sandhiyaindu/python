@@ -1,6 +1,6 @@
 import math
-x=int(input())
-i=x/60
-hrs=math.floor(i)
-min=x%60
+y=int(input())
+j=y/60
+hrs=math.floor(j)
+min=y%60
 print(hrs,min)
