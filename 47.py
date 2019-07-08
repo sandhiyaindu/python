@@ -1,3 +1,3 @@
-x=int(input())
-pq=list(map(int,input().split()))
-print(min(pq),max(pq))
+m=int(input())
+sa=list(map(int,input().split()))
+print(min(sa),max(sa))
