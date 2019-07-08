@@ -1,2 +1,2 @@
-txt=int(input())
-print(txt[::-1])
+ch=int(input())
+print(ch[::-1])
