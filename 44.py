@@ -1,5 +1,5 @@
-n=int(input())
-if n in range(1,10):
+v=int(input())
+if v in range(1,10):
   print("yes")
 else:
   print("no")
