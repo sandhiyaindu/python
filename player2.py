@@ -1,5 +1,5 @@
 k=int(input())
-fact=1
-for i in range(1,k+1):
-  fact=fact*i
-print(fact)
+fact1=1
+for j in range(1,k+1):
+  fact1=fact1*j
+print(fact1)
