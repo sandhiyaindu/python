@@ -1,2 +1,2 @@
-ch=input()
-print(ch[::-1])
+h=input()
+print(h[::-1])
