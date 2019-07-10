@@ -1,2 +1,2 @@
-ch=int(input())
+ch=input()
 print(ch[::-1])
